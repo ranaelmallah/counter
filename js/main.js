@@ -12,7 +12,8 @@ inc.onclick=function(){
 
 }
 res.onclick=function(){
-    num.innerText=0
+  counter=0
+    num.innerText= counter;
     num.style.color="black"
 
 }
